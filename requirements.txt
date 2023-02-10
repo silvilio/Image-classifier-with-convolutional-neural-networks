@@ -202,7 +202,7 @@ preshed==3.0.8
 prometheus-client==0.15.0
 promise==2.3
 prompt-toolkit==3.0.33
-protobuf==3.19.6
+protobuf>=3.8.0,<=3.13
 psutil==5.9.4
 pure-eval==0.2.2
 py==1.11.0
