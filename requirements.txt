@@ -21,7 +21,6 @@ basemap==1.3.6
 basemap-data==1.3.2
 basemap-data-hires==1.3.2
 beautifulsoup4==4.11.1
-black==23.1.0
 bleach==5.0.1
 blinker==1.5
 blis==0.7.9
@@ -185,7 +184,7 @@ openpyxl==3.0.10
 opt-einsum==3.3.0
 orjson==3.8.5
 outcome==1.2.0
-packaging==20.9
+packaging>=20.9
 pandas==1.5.2
 pandas-profiling==3.6.2
 pandocfilters==1.5.0
