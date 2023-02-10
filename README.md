@@ -12,6 +12,11 @@
 
 # English  
 
+In this project, a classification model by convolutional neural networks (CNN) has been built to predict the category of clothing through an image.
+In turn, a Streamlit web application has been created to allow users to upload an image of a clothing item and the model will recognize its category among 10 options:
+T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, Ankle boot.
+
+The model was trained with a set of clothing images and exported as an H5 file. The app uses Streamlit as its user interface, allowing users to upload an image and view the ranking result. The goal of the project is to provide users with an easy-to-use tool to identify the category of a clothing item.
 
 
 --- 
@@ -31,7 +36,8 @@ Here you can see a preview of what you can find inside the app.
 ## DEEP LEARNING
 This project has been built with a Convolutional Neural Network (CNN) classification model to predict the clothing category of an image.
 The model has been trained by showing it 70,000 images of different garments, previously processed and classified. Thanks to Zalando for the painstaking work of creating this dataset and sharing it.
-
+ 
+ 
 ### Model : Logistic Regression (Accuracy 0.81)
 A sequential type network has been created with Keras. Next, we have manually defined our input layer as Flatten type.
 Added 5 dense hidden layers, 2 with 50 neurons and 3 with 100, all with relU activation function.
@@ -76,7 +82,8 @@ Aquí puedes ver un adelanto de lo que te puedes encontrar dentro de la app.
 ## DEEP LEARNING
 Este proyecto se ha construido con un modelo de clasificación por redes neuronales convolucionales(CNN) para predecir la categoría de ropa de una imagen.
 El modelo ha sido entrenado mostrándole 70.000 imágenes de diferentes prendas, previamente procesadas y clasificadas. Agradecimientos a Zalando por la laboriosa labor de crear este conjunto de datos y compartirlo.
-
+ 
+  
 ### Model : Convolutional Neural Network (Precisión de 0.91)
 Se ha creado una red de tipo secuencial con Keras. Después, hemos definido manualmente nuestra capa de entrada de tipo Flatten.
 Se ha agregado 5 capas ocultas densas, 2 con 50 neuronas y 3 con 100, y todas ellas con la función de activación relU.
