@@ -175,7 +175,7 @@ openpyxl==3.0.10
 opt-einsum==3.3.0
 orjson==3.8.5
 outcome==1.2.0
-packaging~=21.3
+packaging==20.9
 pandas==1.5.2
 pandas-profiling==3.6.2
 pandocfilters==1.5.0
@@ -269,7 +269,6 @@ sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
 srsly==2.4.5
 stack-data==0.6.2
-statsmodels==0.13.5
 streamlit==1.17.0
 streamlit-option-menu==0.3.2
 tangled-up-in-unicode==0.2.0
