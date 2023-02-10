@@ -30,7 +30,6 @@ cachetools==5.2.0
 captum==0.6.0
 cargo==0.3
 catalogue==2.0.8
-category-encoders==2.6.0
 certifi==2022.9.24
 cffi==1.15.1
 chardet==5.1.0
@@ -55,7 +54,6 @@ dash==2.7.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
-datamallet==0.22.0
 datascience==0.17.5
 debugpy==1.6.4
 decorator==5.1.1
@@ -74,7 +72,6 @@ et-xmlfile==1.1.0
 etils==1.0.0
 exceptiongroup==1.1.0
 executing==1.2.0
-fastai==2.7.10
 fastcore==1.5.28
 fastdownload==0.0.7
 fastjsonschema==2.16.2
@@ -110,7 +107,6 @@ idna==3.4
 ImageHash==4.3.1
 imageio==2.25.0
 imagesize==1.4.1
-imbalanced-learn==0.10.1
 imgaug==0.4.0
 importlib-metadata==5.1.0
 importlib-resources==5.10.2
@@ -149,7 +145,6 @@ kiwisolver==1.4.4
 korean-lunar-calendar==0.3.1
 langcodes==3.3.0
 libclang==15.0.6.1
-lightgbm==3.3.4
 llvmlite==0.39.1
 LunarCalendar==0.0.9
 lxml==4.9.1
@@ -203,7 +198,6 @@ plotly==5.11.0
 plotly-express==0.4.1
 plotly-resampler==0.8.4rc1
 pluggy==1.0.0
-pmdarima==2.0.2
 preshed==3.0.8
 prometheus-client==0.15.0
 promise==2.3
@@ -215,7 +209,6 @@ py==1.11.0
 pyarrow==10.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycaret==3.0.0rc8
 pycparser==2.21
 pydantic==1.10.4
 pydeck==0.8.0
