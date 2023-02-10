@@ -251,7 +251,7 @@ rich==12.4.4
 rsa==4.9
 schemdraw==0.15
 scikit-image==0.19.3
-scikit-learn>=1.2.0
+scikit-learn >=0.20.0<1.2.0
 scikit-plot==0.3.7
 scipy==1.5.4
 seaborn==0.12.1
