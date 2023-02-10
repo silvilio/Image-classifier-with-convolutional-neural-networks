@@ -80,7 +80,7 @@ Aquí puedes ver un adelanto de lo que te puedes encontrar dentro de la app.
 ---
 
 ## DEEP LEARNING
-Este proyecto se ha construido con un modelo de clasificación por redes neuronales convolucionales(CNN) para predecir la categoría de ropa de una imagen.
+Este proyecto se ha construido un modelo de clasificación por redes neuronales convolucionales(CNN) para predecir la categoría de ropa de una imagen.
 El modelo ha sido entrenado mostrándole 70.000 imágenes de diferentes prendas, previamente procesadas y clasificadas. Agradecimientos a Zalando por la laboriosa labor de crear este conjunto de datos y compartirlo.
  
   
