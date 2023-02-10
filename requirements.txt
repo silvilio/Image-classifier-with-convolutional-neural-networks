@@ -92,6 +92,7 @@ google-auth==2.16.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 grpcio==1.51.1
+grpcio-status==1.48.2
 gunicorn==20.1.0
 h5py==3.8.0
 hijri-converter==2.2.4
@@ -196,7 +197,7 @@ preshed==3.0.8
 prometheus-client==0.15.0
 promise==2.3
 prompt-toolkit==3.0.33
-protobuf==3.20.0
+protobuf==3.19.5
 psutil==5.9.4
 pure-eval==0.2.2
 py==1.11.0
