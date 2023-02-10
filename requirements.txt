@@ -196,7 +196,6 @@ preshed==3.0.8
 prometheus-client==0.15.0
 promise==2.3
 prompt-toolkit==3.0.33
-protobuf>=3.8.0,<4
 psutil==5.9.4
 pure-eval==0.2.2
 py==1.11.0
@@ -272,7 +271,7 @@ tangled-up-in-unicode==0.2.0
 tbats==1.1.2
 tenacity==8.1.0
 tensorboard>=2.9.0
-tensorboard-data-server==0.6.1
+tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
 tensorflow>=2.9
 tensorflow-datasets==4.8.2
