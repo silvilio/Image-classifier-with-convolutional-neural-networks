@@ -196,7 +196,7 @@ preshed==3.0.8
 prometheus-client==0.15.0
 promise==2.3
 prompt-toolkit==3.0.33
-protobuf>=3.12.2
+protobuf>=3.12
 psutil==5.9.4
 pure-eval==0.2.2
 py==1.11.0
@@ -312,7 +312,6 @@ uri-template==1.2.0
 urllib3==1.26.13
 validators==0.20.0
 visions==0.7.5
-wandb==0.13.9
 wasabi==1.1.1
 watchdog==2.1.9
 wcwidth==0.2.5
