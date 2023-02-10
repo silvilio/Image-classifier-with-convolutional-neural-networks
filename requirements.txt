@@ -271,7 +271,7 @@ streamlit-option-menu==0.3.2
 tangled-up-in-unicode==0.2.0
 tbats==1.1.2
 tenacity==8.1.0
-tensorboard==2.9.0
+tensorboard>=2.9.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow>=2.9
