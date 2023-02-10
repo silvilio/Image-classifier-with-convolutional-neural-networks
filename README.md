@@ -24,8 +24,8 @@ The model was trained with a set of clothing images and exported as an H5 file. 
 ## WEB APP STREAMLIT: 
 In the following links you can take a look at the app created for this project in Streamlit and interact with the model by uploading the image yourself.
 
-### [SEE THE APP](https://silvilio-titanic-silvilio-titanic-app-251nwk.streamlit.app/)
-### [SEE THE APP CODE](https://github.com/silvilio/titanic/blob/main/silvilio_titanic_app.py)
+### [SEE THE APP](https://silvilio-image-classifier-with-convolution-clasificacion-2reosa.streamlit.app/)
+### [SEE THE APP CODE](https://github.com/silvilio/Image-classifier-with-convolutional-neural-networks/blob/main/clasificacion.py)
 
 Here you can see a preview of what you can find inside the app.
 
@@ -70,8 +70,8 @@ El modelo fue entrenado con un conjunto de imágenes de ropa y exportado como un
 ## WEB APP STREAMLIT: 
 En los siguientes enlaces puedes echar un vistazo a la app creada para este proyecto en Streamlit e interactuar con el modelo subiendo tú mismo la imagen. 
 
-### [VER LA APP](https://silvilio-titanic-silvilio-titanic-app-251nwk.streamlit.app/)
-### [VER EL CÓDIGO DE LA APP](https://github.com/silvilio/titanic/blob/main/silvilio_titanic_app.py)
+### [VER LA APP](https://silvilio-image-classifier-with-convolution-clasificacion-2reosa.streamlit.app/)
+### [VER EL CÓDIGO DE LA APP](https://github.com/silvilio/Image-classifier-with-convolutional-neural-networks/blob/main/clasificacion.py)
 
 Aquí puedes ver un adelanto de lo que te puedes encontrar dentro de la app.
 
