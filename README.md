@@ -37,7 +37,7 @@ This project has been built with a Convolutional Neural Network (CNN) classifica
 The model has been trained by showing it 70,000 images of different garments, previously processed and classified. Thanks to Zalando for the painstaking work of creating this dataset and sharing it.
  
  
-### Model : Logistic Regression (Accuracy 0.91)
+### Model : Convolutional Neural Network (Precisión de 0.91)
 A sequential type network has been created with Keras. Next, we have manually defined our input layer as Flatten type.
 Added 5 dense hidden layers, 2 with 50 neurons and 3 with 100, all with relU activation function.
 Finally, an output layer with 10 neurons has been added and the softmax activation function has been added. <br>
